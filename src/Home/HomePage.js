@@ -22,7 +22,7 @@ class HomePage extends Component{
 
         return(
             <div>
-                <h5>HomePage</h5>
+                <h2>HomePage</h2>
                 <div className="container articles-container">
                    {posts}
                 </div>
